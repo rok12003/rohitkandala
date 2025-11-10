@@ -4,6 +4,9 @@ description: "Data Scientist Portfolio"
 url: "https://rohitkandala.com"
 baseurl: ""
 
+include:
+  - _pages
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 minimal_mistakes_skin: "sunrise"
