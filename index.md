@@ -1,7 +1,15 @@
 ---
 title: "Thanks for stopping by!"
 layout: single
+classes: wide
 ---
+
+<style>
+.page__title {
+  text-align: center;
+  margin-bottom: 3em;
+}
+</style>
 
 <div style="text-align: center; margin-bottom: 2em;">
   <img src="/assets/images/me.jpg" alt="Rohit Kandala" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
