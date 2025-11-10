@@ -1,6 +1,6 @@
 ---
 title: "Dallas Real Estate Tool"
-date: 2025-03-01
+order: 3
 ---
 
 I was curious whether I could reasonably predict single-family home prices in the Dallas MSA, and used RShiny to display this work. TL;DR -- sort of! I do think this is a severe case of overfitting.

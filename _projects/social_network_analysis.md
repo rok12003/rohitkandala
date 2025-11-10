@@ -1,6 +1,6 @@
 ---
 title: "CEO Affiliation Networks"
-date: 2024-06-01
+order: 4
 ---
 
 Social Network Analysis was a fascinating class, and my team was inspired by [Joseph Galaskiewicz's 1985 paper on the link between CEOs and philanthropy.](http://ndl.ethernet.edu.et/bitstream/123456789/41810/1/8.Joseph%20Galaskiewicz.pdf)

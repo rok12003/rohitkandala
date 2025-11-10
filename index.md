@@ -1,5 +1,4 @@
 ---
-title: "Thanks for stopping by!"
 layout: single
 ---
 

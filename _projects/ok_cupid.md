@@ -1,6 +1,6 @@
 ---
 title: "OKCupid Profiles"
-date: 2024-03-01
+order: 2
 ---
 
 On Kaggle, there's a great [OKCupid dataset](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles)
