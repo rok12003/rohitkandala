@@ -4,12 +4,13 @@ description: "Data Scientist Portfolio"
 url: "https://rohitkandala.com"
 baseurl: ""
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 markdown: kramdown
 
