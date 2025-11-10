@@ -1,7 +1,6 @@
 ---
 title: "Thanks for stopping by!"
 layout: single
-classes: wide
 ---
 
 <style>
