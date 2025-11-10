@@ -1,18 +1,26 @@
 ---
-layout: splash
 title: "Hi, I'm Rohit."
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
+layout: single
 ---
 
-## Data Scientist • Analytics • Modeling
+<div style="text-align: center; margin-bottom: 2em;">
+  <img src="/assets/images/photo.jpg" alt="Rohit Kandala" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+</div>
 
-I work on statistical modeling, data engineering, and analytical systems.  
+<div style="text-align: center; margin-bottom: 2em;">
+  <h2>Data Scientist • Survey Research • Machine Learning</h2>
+  <p>I use data to better understand and help people. Currently at <a href="https://harmonylabs.org">Harmony Labs</a>.</p>
+</div>
 
-- Predictive modeling for marketing & polling
-- Real estate time series forecasting (R + Shiny)
-- Geo + demographic analysis
-- Data engineering pipelines
+## Quick Links
 
-Check out my projects or grab my resume.
+- 👋 [Learn more about me](/about/)
+- 💼 [View my projects](/projects/)
+- 📧 [Get in touch](/contact/)
+
+## Topics I'm interested in:
+
+- Sentiment Analysis
+- Sentiment Analysis
+- Machine Learning
+- Survey Science

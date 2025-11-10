@@ -6,13 +6,9 @@ layout: single
 
 ## Get in Touch
 
-I'm always interested in connecting with anyone anywhere even if you're not interested in Data Science neccessarily. 
+Feel free to reach out on these platforms!
 
-You can reach me through:
-
-- **Email**: [your-email@example.com](mailto:rohitkandala97.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rohitkandala/)
-- **GitHub**: [Your GitHub Profile](https://github.com/rok12003)
-- **Twitter**: [@yourhandle](https://x.com/r_kandala)
-
-Don't be shy. Say hi :)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rohitkandala/)
+- **Email**: [Email](mailto:rohitkandala97@gmail.com)
+- **GitHub**: [Github](https://github.com/rok12003)
+- **Twitter**: [Twitter](https://twitter.com/r_kandala)
