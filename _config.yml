@@ -19,10 +19,7 @@ defaults:
     values:
       layout: single
 
-navigation:
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Resume"
-    url: /resume
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
