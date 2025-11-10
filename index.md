@@ -4,7 +4,7 @@ layout: single
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <img src="/assets/images/photo.jpg" alt="Rohit Kandala" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+  <img src="/assets/images/me.jpg" alt="Rohit Kandala" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 </div>
 
 <div style="text-align: center; margin-bottom: 2em;">
@@ -20,7 +20,6 @@ layout: single
 
 ## Topics I'm interested in:
 
-- Sentiment Analysis
-- Sentiment Analysis
-- Machine Learning
 - Survey Science
+- Machine Learning within Behavioral Sciences
+- General Forecasting
