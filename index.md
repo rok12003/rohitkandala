@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Rohit."
+title: "Thanks for stopping by!"
 layout: single
 ---
 
@@ -8,8 +8,8 @@ layout: single
 </div>
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <h2>Data Scientist • Survey Research • Machine Learning</h2>
-  <p>I use data to better understand and help people. Currently at <a href="https://harmonylabs.org">Harmony Labs</a>.</p>
+  <h2>Data Scientist • Social Science • Machine Learning</h2>
+  <p>I use data to better understand people. Currently at <a href="https://harmonylabs.org">Harmony Labs</a>.</p>
 </div>
 
 ## Quick Links
