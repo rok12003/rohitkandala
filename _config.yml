@@ -6,6 +6,8 @@ baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
+minimal_mistakes_skin: "sunrise"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
